@@ -97,16 +97,6 @@ A TCP-based client/server communication project demonstrating socket programming
 
 ---
 
-## `> activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushrupapara&bg_color=0D1117&color=C9D1D9&line=00E5A0&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
 ## `> connect`
 
 <div align="center">
