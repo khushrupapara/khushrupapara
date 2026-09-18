@@ -82,16 +82,18 @@ A TCP-based client/server communication project demonstrating socket programming
 <div align="center">
 
 <a href="https://github.com/khushrupapara">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khushrupapara&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=C9D1D9" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=khushrupapara&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=C9D1D9"
+    height="180"
+  />
 </a>
 
 <a href="https://github.com/khushrupapara">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushrupapara&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00E5A0&text_color=C9D1D9" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushrupapara&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00E5A0&text_color=C9D1D9"
+    height="180"
+  />
 </a>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=khushrupapara&theme=dark&hide_border=true&background=0D1117&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0" />
 
 </div>
 
