@@ -2,7 +2,8 @@
 
 # `Khush Rupapara`
 
-### AI • Automation • Python • Security
+
+### AI Engineer • LLM Applications • AI Automation • Python • n8n
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -25,7 +26,7 @@
 
 ## `> whoami`
 
-I'm an AI-focused developer exploring the intersection of **LLMs, AI agents, RAG, and automation.**
+I'm an AI Engineer focused on building practical **LLM applications, AI agents, RAG systems, and automation workflows with Python and n8n.**
 
 I build practical AI systems with Python and modern AI frameworks, turning ideas into useful, scalable workflows.
 
@@ -56,25 +57,25 @@ I build practical AI systems with Python and modern AI frameworks, turning ideas
 
 ## `> featured_projects`
 
-### ⚡ Automated Lead Generation System
+### ⚡[Automated Lead Generation System](https://github.com/khushrupapara/n8n-workflow)
 
 **n8n • Apify • Google Sheets • REST APIs • Webhooks**
 
 Automated business-data collection and lead-processing workflow designed to reduce repetitive prospecting work.
 
-### 🧠 PDF RAG Q&A System
+### 🧠 [PDF RAG Q&A System](https://github.com/khushrupapara/Ai-agent)
 
 **Python • LangChain • Gemini • Embeddings**
 
 A retrieval-augmented generation pipeline that processes PDF documents, retrieves relevant content, and generates answers from document context.
 
-### 🔎 Web Analysis & Data Extraction Tool
+### 🔎 [Web Analysis & Data Extraction Tool](https://github.com/khushrupapara/web_analyzer)
 
 **Python • Requests • BeautifulSoup • JSON • CSV**
 
 Extracts website metadata, headings, images, and keyword-frequency information with export support.
 
-### 🔌 Python TCP Server–Client
+### 🔌 [Python TCP Server–Client](https://github.com/khushrupapara/python-Server-Client)
 
 **Python • Sockets • Multithreading**
 
@@ -127,6 +128,7 @@ A TCP-based client/server communication project demonstrating socket programming
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────┐
-│  "Don't just use AI. Build with it."         │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│         AI • Automation • Engineering                |
+|  Build systems that turn intelligence into action.   │
+└──────────────────────────────────────────────────────┘
