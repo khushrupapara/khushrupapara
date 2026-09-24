@@ -63,7 +63,7 @@ I build practical AI systems with Python and modern AI frameworks, turning ideas
 
 Automated business-data collection and lead-processing workflow designed to reduce repetitive prospecting work.
 
-### 🧠 [PDF RAG Q&A System](https://github.com/khushrupapara/Ai-agent)
+### 🧠 [PDF RAG Q&A System](https://github.com/khushrupapara/https://github.com/khushrupapara/pdf-rag-qa-system)
 
 **Python • LangChain • Gemini • Embeddings**
 
