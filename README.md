@@ -69,7 +69,7 @@ Automated business-data collection and lead-processing workflow designed to redu
 
 A retrieval-augmented generation pipeline that processes PDF documents, retrieves relevant content, and generates answers from document context.
 
-### 🔎 [Web Analysis & Data Extraction Tool](https://github.com/khushrupapara/web_analyzer)
+### 🔎 [Web Analysis & Data Extraction Tool](http://github.com/khushrupapara/web-analysis-data-extraction)
 
 **Python • Requests • BeautifulSoup • JSON • CSV**
 
